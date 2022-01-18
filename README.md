@@ -7,16 +7,18 @@ Amazon Vine invites the most trusted reviewers on Amazon to post opinions about 
 Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review, then, the purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members in the Mobile Apps market using the related Amazon Vine databasis.
 
 ## Results
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews
 
-How many Vine reviews and non-Vine reviews were there?
+After some analysis, we noted: 
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+1) As expected, there are not apps included at the program of paid reviews but there are 123,420 no paid reviews.  
+2) 56,739 apps were reviewed with 5 stars. 
+3) 45.97% of the no paid reviews were 5 stars.
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![Summary](Summary.png)
+
 
 ## Summary
 
-The summary states whether or not there is bias, and the results support this statement
+We can't conclude bias in this particular basis since there is not part of the Amazon Vine Program, nevertheless, we can conclude that almost 50% of total reviews assigned 5 starts to apps implying a bias in rated apps. 
 
-An additional analysis is recommended to support the statement
+To have a better understanding among the correlation, we may need to review the rest of ratings for no paid reviews. 
